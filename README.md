@@ -15,10 +15,9 @@ Hero project](https://handmadehero.org) created by [Casey Muratori](https://case
 This project changed everything from me. I no longer needed to use a game engine to create my games,
 because Casey show us all how to fill every pixel by hand.
 
-Now, I am a subscriber of [Computer, Enhance!](https://www.computerenhance.com/), a video
-substack by Casey on the low-level fundamentals of computers and performance-aware programming.
-If you want to know why your code is slow, and how you can make it faster, this series is
-for you.
+Now, I am learning how computers actually work by following [Computer, Enhance!](https://www.computerenhance.com/),
+a video substack by Casey on the low-level fundamentals of computers and performance-aware programming.
+If you want to know why your code is slow, and how you can make it faster, this series is for you.
 
 That's all I have to say for now!
 Happy coding.
